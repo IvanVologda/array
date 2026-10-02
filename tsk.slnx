@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="tsk/tsk.vcxproj" Id="32ad149c-9877-4f80-ba22-3ef87fd5aef9" />
+</Solution>
